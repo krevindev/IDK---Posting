@@ -1,0 +1,26 @@
+.App {
+  text-align: center;
+  overflow-x: hidden;
+  box-sizing: border-box;
+
+}
+
+* {
+  margin: 0;
+  padding: 0;
+
+  outline: none;
+  border: none;
+}
+
+.route-page {
+  overflow-x: hidden;
+  padding: 0 20px;
+  margin-top: 10vh;
+  box-sizing: border-box;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
